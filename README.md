@@ -1,1 +1,1 @@
- game.Players.localPlayer:Kick("เอาไปแจกทำเหียไร เอ็กๆ")
+ game.Players.localPlayer:Kick("Frozen Hub | ยกเลิกแจก Script ให้แคลน Bad Bay * หมี่เอาสคริปมาแจก")
